@@ -6,6 +6,7 @@ describe('HeroDetailComponent', () => {
   let component: HeroDetailComponent;
   let fixture: ComponentFixture<HeroDetailComponent>;
 
+
   beforeEach(() => {
     TestBed.configureTestingModule({
       declarations: [HeroDetailComponent]
